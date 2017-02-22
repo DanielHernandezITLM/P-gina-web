@@ -1,0 +1,18 @@
+<html>
+
+<head> <title>Hola men</title></head>
+
+<body>
+    <main> 
+    <header><a href="html1.html"><h1>Daniel Hernandez</h1></a>
+        <a href="html1.html"><strong>Mi infancia</strong></a>
+        <strong>Mi adolescencia</strong>
+        <a href="html3.html"><strong>Mi adultez</strong></a>
+        
+    </header>
+    <hr>
+    </main>
+</body>
+<footer> </footer>
+
+</html>
