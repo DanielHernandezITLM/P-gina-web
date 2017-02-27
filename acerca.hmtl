@@ -11,32 +11,32 @@
 </head>
 
 <body>
-    <header><a href="infancia.html"><h1><img src="imagenes/yo.jpg" alt="Icono de mi página">Daniel Hernandez</h1></a> <a href="infancia.html"><strong>Mi
-            infancia</strong></a> | <a href="adolescencia.html"><strong>Mi adolesencia</strong></a> | <a href="adultez.html"><strong>Mi adultez </strong></a> | <a href="proyecto.html"><strong>Como me veo en 20 años</strong></a> | <strong>acerca de mi</strong> | </header>
+    <header><a href="infancia.html"><h1><img src="imagenes/yo.jpg" alt="Icono de mi p&#225;gina">Daniel Hern&#225;ndez</h1></a> <a href="infancia.html"><strong>Mi
+            infancia</strong></a> | <a href="adolescencia.html"><strong>Mi adolescencia</strong></a> | <a href="adultez.html"><strong>Mi adultez </strong></a> | <a href="proyecto.html"><strong>Como me veo en 20 a&#241;os</strong></a> | <strong>acerca de mi</strong> | </header>
     <hr>
     <main>
         <h3>Familia</h3>
-        <h4>Papá</h4>
-        <p>Armando Hugo Hernandez Herrera es su nombre, nació en la ciudad de México es mi mejor amigo y todo un ejemplo a seguir lo amo.</p>
-        <img src="imagenes/familia/papa.jpg" alt="Mi papá">
-        <h4>Mamá</h4>
-        <p>Mi madre se llama Alma Lorena Moreno Jocobi, nació en la ciudad de los Mochis, apesar de todas las dificultades siempre ha salido adelante es una gran mujer y la amo.</p>
-        <img src="imagenes/familia/mama.jpg" alt="Mi mamá">
+        <h4>Pap&#225;</h4>
+        <p>Armando Hugo Hernandez Herrera es su nombre, naci&#243; en la ciudad de M&#233;xico es mi mejor amigo y todo un ejemplo a seguir lo amo.</p>
+        <a href="imagenesHTML/acerca/papa.html"><img src="imagenes/familia/papa.jpg" alt="Mi pap&#225;"></a>
+        <h4>Mam&#225;</h4>
+        <p>Mi madre se llama Alma Lorena Moreno Jocobi, naci&#243; en la ciudad de los Mochis, apesar de todas las dificultades siempre ha salido adelante es una gran mujer y la amo.</p>
+        <a href="imagenesHTML/acerca/mama.html"><img src="imagenes/familia/mama.jpg" alt="Mi mam&#225;"></a>
         <h4>Hermano</h4>
-        <p>Mi hermano se llama Hugo Armando Hernandez Moreno, nació en los Mochis Sinaloa tiene 27 años, es enojon pero inteligente y es buena onda, siempre me invita de vacaciones, otro pedo tomar con el y platicar también!</p>
-        <img src="imagenes/familia/hugo.jpg" alt="Mi hermano">
+        <p>Mi hermano se llama Hugo Armando Hern&#225;ndez Moreno, naci&#243; en los Mochis Sinaloa tiene 27 a&#241;os, es enoj&#243;n pero inteligente y es buena onda, siempre me invita de vacaciones, otro pedo tomar con el y platicar tambi&#233;n!</p>
+        <a href="imagenesHTML/acerca/hermano.html"><img src="imagenes/familia/hugo.jpg" alt="Mi hermano"></a>
         <h4>Abuelos maternos</h4>
-        <p>Mis abuelitos maternos vivieron casi toda su vida en el poblado 7, mi abuelo es de chihuahua y mi abuela es del valle del carriz. Mi abuelo ya no escucha muy bien y tiene problemas en la columna por trabajar tanto tiempo las tierras, mi abuela ya no recuerda a nadie, tiene 1 año encamada porque se fracturó la cintura y ya no puede caminar más.</p>
-        <img src="imagenes/familia/abuelos.jpg" alt="Mis abuelos maternos">
+        <p>Mis abuelitos maternos vivieron casi toda su vida en el poblado 7, mi abuelo es de chihuahua y mi abuela es del valle del carrizo. Mi abuelo ya no escucha muy bien y tiene problemas en la columna por trabajar tanto tiempo las tierras, mi abuela ya no recuerda a nadie, tiene 1 a&#241;o encamada porque se fractur&#243; la cintura y ya no puede caminar m&#225;s.</p>
+        <a href="imagenesHTML/acerca/abuelos.html"><img src="imagenes/familia/abuelos.jpg" alt="Mis abuelos maternos"></a>
         <h4>Abuelos paternos</h4>
-        <p>Mis abuelos por parte de mi papá viven en la ciudad de México, mi abuelo es de pachuca y mi abuela de toluca, todavía son jovenes y son los mejores siempre me ha gustado vistarlos espero poder ir pronto a verlos.</p>
-        <img src="imagenes/familia/abuelospapa.jpg" alt="Mis abuelos paternos">
+        <p>Mis abuelos por parte de mi pap&#225; viven en la ciudad de M&#233;xico, mi abuelo es de Pachuca y mi abuela de Toluca, todav&#237;a son j&#243;venes y son los mejores siempre me ha gustado visitarlos espero poder ir pronto a verlos.</p>
+        <a href="imagenesHTML/acerca/abuelospapa.html"><img src="imagenes/familia/abuelospapa.jpg" alt="Mis abuelos paternos"></a>
         <hr>
         <h3>Cosas random favoritas</h3>
         <h4>Peliculas favoritas</h4>
         <ul>
             <li>Pulp Fiction</li>
-            <li>La saga del Señor de los anillos</li>
+            <li>La saga del Se&#241;or de los anillos</li>
             <li>La saga de Matrix</li>
         </ul>
         <h4>Video juegos favoritos</h4>
@@ -48,8 +48,8 @@
         <h4>Bebidas favoritas</h4>
         <ul>
             <li>Cerveza Heineken</li>
-            <li>Café negro</li>
-            <li>Té verde</li>
+            <li>Caf&#233; negro</li>
+            <li>T&#233; verde</li>
         </ul>
         <h4>Comidas Favoritas</h4>
         <ul>
@@ -76,35 +76,35 @@
             <li>Improvisar canciones</li>
         </ul>
         <hr>
-        <h3>Música</h3> Me adentré en la música cuando tenía 15 años, comencé como buen sinaloense adentrandome en la música ranchera, norteña y sierreña, me aprendí muchas canciones de banda y de grupos norteños. Eso hizo que me metiera en un grupo de música nos llamabamos "Los Quesochilis" y tocamos como en 3 fiestas aproximadamente, yo tocaba el bajo y cantaba, aveces tocaba el acordeon también pero como casi no le sabía no lo agarraba mucho mas que en alguna que otra canción.
+        <h3>M&#250;sica</h3> Me adentr&#233; en la m&#250;sica cuando ten&#237;a 15 a&#241;os, comenc&#233; como buen sinaloense adentr&#225;ndome en la m&#250;sica ranchera, norte&#241;a y sierre&#241;a, me aprend&#237; muchas canciones de banda y de grupos norte&#241;os. Eso hizo que me metiera en un grupo de m&#250;sica nos llam&#225;bamos "Los Quesochilis" y tocamos como en 3 fiestas aproximadamente, yo tocaba el bajo y cantaba, a veces tocaba el acorde&#243;n tambi&#233;n pero como casi no le sab&#237;a no lo agarraba mucho m&#225;s que en alguna que otra canci&#243;n.
         <center>En una fiesta tocando el acordeon</center>
-        <center><img src="imagenes/actividades/grupo.jpg" alt="Tocando el acordeon"></center>
-        <center>Mi primera guitarra(ya la vendí)</center>
-        <center><img src="imagenes/actividades/musica.jpg" alt="Tocando mi primera guitarra"></center>
+        <center><a href="imagenesHTML/acerca/grupo.html"><img src="imagenes/actividades/grupo.jpg" alt="Tocando el acordeon"></a></center>
+        <center>Mi primera guitarra(ya la vend&#237;)</center>
+        <center><a href="imagenesHTML/acerca/musica.html"><img src="imagenes/actividades/musica.jpg" alt="Tocando mi primera guitarra"></a></center>
         <hr>
-        <h3>Artes Marciales Mixtas</h3> Cuando tenía 13 me metí adentré a las artes marciales, siempre me gustó tirar golpes y meterme a este tipo de disciplinas fue la excusa perfecta para pelearme más seguido, estuve en más de 20 peleas y en 3 torneos de los cuales gané 2 y perdí 1. El último torneo en el que estuvo fue en el carrizo, perdí y fue mi retiro, desde ese entonce solamente entreo ocacionalmente. Gracias a este bonito deporte, me enchuecaron la mandibula y hasta la fecha está chueca.
+        <h3>Artes Marciales Mixtas</h3> Cuando ten&#237;a 13 me met&#237; adentr&#233; a las artes marciales, siempre me gust&#243; tirar golpes y meterme a este tipo de disciplinas fue la excusa perfecta para pelearme m&#225;s seguido, estuve en m&#225;s de 20 peleas y en 3 torneos de los cuales gan&#233; 2 y perd&#237; 1. El &#250;ltimo torneo en el que estuvo fue en el carrizo, perd&#237; y fue mi retiro, desde ese entonces solamente entreno ocasionalmente. Gracias a este bonito deporte, me enchuecaron la mand&#237;bula y hasta la fecha est&#225; chueca.
         <center>Mi primer torneo en la ciudad deportiva</center>
-        <center><img src="imagenes/actividades/pelea.jpg" alt="en un torneo de kick boxing"></center> también entrené diversas disciplinas como taekwndo y jiu jitsu brazileño, pero siempre me gustó más el kick boxing.
+        <center><a href="imagenesHTML/acerca/pelea.html"><img src="imagenes/actividades/pelea.jpg" alt="en un torneo de kick boxing"></a></center> tambi&#233;n entren&#233; diversas disciplinas como taekwndo y jiu jitsu brasile&#241;o, pero siempre me gust&#243; m&#225;s el kick boxing.
         <center>Practicando taekwondo</center>
-        <center><img src="imagenes/actividades/taekwndo.jpg" alt="Rompiendo una tabla en taekwondo"></center>
+        <center><a href="imagenesHTML/acerca/taekwondo.html"><img src="imagenes/actividades/taekwndo.jpg" alt="Rompiendo una tabla en taekwondo"></a></center>
         <hr>
         <h3>Futbol</h3>
-        A la edad de 15 años estaba bien entrado en el futbol soccer, jugaba con un equipo que se llamaba "Real Mochis" eramos bien malos, nunca ganamos un torneo, pero el entrenador era bueno y yo me consideraba bueno mi posición era defensa central de stoper princiaplmente y era capitan del equipo, aun que también me movía por las laterales como carrilero o en el medio campo. Una vez le ofrecieron a mi entrenador que yo jugara con Azucareros que en ese entonces era el equipo de segunda divisón de Los Mochis pero no aceptó el pensaba que yo estaba para entrar a un equipo de primer división. Tuve que ponerme a entrenar muy duro porque quería estar en un equipo grande, durante las vacaciones de verano, entrenaba con 3 diferentes entrenadores de lunes a viernes de 3 a 8, durante las primeras 2 horas entrenaba toque táctico, las otras dos horas eran entrenamiento física y las ultimas eran de reflejos y estrategia, los fines de semana jugaba 2 partidos con dos equipos diferentes. Entrené así de duro durante 2 meses, cuando llegó la hora que ir a la ciudad de México a visorias del equipo de primera división llamado "Cruz Azul" agarré camino. Cuando estaba ya en el Noria(lugar donde entrenan los jugadores), no corrí más de 30 minutos cuando ya no tenía aire estabamos a una altura a nivel del mar demacida alta, sentía que todo el entrenamiento que había hecho era dioquis. Al final de cuentas no quedé en el equipo, dejé de jugar el futbol soccer. Pero no me desanimé todavía lo practico de vez en vez, pero definitivamente ya no corro como antes.
+        A la edad de 15 a&#241;os estaba bien entrado en el futbol soccer, jugaba con un equipo que se llamaba "Real Mochis" &#233;ramos bien malos, nunca ganamos un torneo, pero el entrenador era bueno y yo me consideraba bueno mi posici&#243;n era defensa central de stoper principalmente y era capit&#225;n del equipo, aunque tambi&#233;n me mov&#237;a por las laterales como carrilero o en el medio campo. Una vez le ofrecieron a mi entrenador que yo jugara con Azucareros que en ese entonces era el equipo de segunda divisi&#243;n de Los Mochis pero no acept&#243; &#233;l pensaba que yo estaba para entrar a un equipo de primer divisi&#243;n. Tuve que ponerme a entrenar muy duro porque quer&#237;a estar en un equipo grande, durante las vacaciones de verano, entrenaba con 3 diferentes entrenadores de lunes a viernes de 3 a 8, durante las primeras 2 horas entrenaba toque t&#225;ctico, las otras dos horas eran entrenamiento f&#237;sica y las ultimas eran de reflejos y estrategia, los fines de semana jugaba 2 partidos con dos equipos diferentes. Entren&#233; as&#237; de duro durante 2 meses, cuando lleg&#243; la hora que ir a la ciudad de M&#233;xico a visorias del equipo de primera divisi&#243;n llamado "Cruz Azul" agarr&#233; camino. Cuando estaba ya en el Noria(lugar donde entrenan los jugadores), no corr&#237; m&#225;s de 30 minutos cuando ya no ten&#237;a aire est&#225;bamos a una altura a nivel del mar demasiada alta, sent&#237;a que todo el entrenamiento que hab&#237;a hecho era dioquis. Al final de cuentas no qued&#233; en el equipo, dej&#233; de jugar el futbol soccer. Pero no me desanim&#233; todav&#237;a lo pr&#225;ctico de vez en vez, pero definitivamente ya no corro como antes.
         <center> Jugando para el equipo Real Mochis</center>
-        <center><img src="imagenes/actividades/furbol.jpg" alt="En la cancha jugando futbol"></center>
+        <center><a href="imagenesHTML/acerca/futbol.html"><img src="imagenes/actividades/furbol.jpg" alt="En la cancha jugando futbol"></a></center>
     </main>
 </body>
 <footer>
     <hr>
-    <h5>Contactame</h5>
+    <h5>Cont&#225;ctame</h5>
     <h6>
         <ul>
-        <li>Facebook <a href="https://www.facebook.com/profile.php?id=100005309834702">Daniel Hernandez</a></li>     
+        <li>Facebook <a href="https://www.facebook.com/profile.php?id=100005309834702">Daniel Hern&#225;ndez</a></li>     
             <li>Instagram <a href="https://www.instagram.com/h.m.daniel/">h.m.daniel</a></li>     
-            <li>Telefono 6680220638</li>     
+            <li>Tel&#233;fono 6680220638</li>     
             <li>Correo danihm95@gmail.com</li>     
         </ul>
-        Todos los derechos reservados &#174
+        Todos los derechos reservados &#174;
         </h6> </footer>
 
 </html>
