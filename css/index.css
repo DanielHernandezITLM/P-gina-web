@@ -1,14 +1,17 @@
 header {
     height: 10%;
     padding: 20px;
-    background-color: skyblue;
     display: flex;
 }
-
+body{
+    background-image: url(../imagenes/mame/background.jpg);
+    background-size: cover;
+    color: white;
+    font-family: sans-serif;
+}
 footer {
     height: 15%;
     padding: 10px;
-    background-color: skyblue;
 }
 
 header h1 {
@@ -16,67 +19,33 @@ header h1 {
     width: 90%;
 }
 
-#social {
-    float: right;
-    width: 30px;
-}
-#menu li:hover{
-    background-color: skyblue;
-}
-a:link, a:hover, a:active{
+
+
+a:link, a:hover, a:active, a:visited{
     color: inherit;
 }
-#upfooter {
-    text-align: center;
-}
-#section {
-    overflow: hidden;
-    width: 100%;
-}
+
 
 .article {
     width: 100%;
     height: 24.85%;
     overflow: scroll;
-    border-bottom: 1px solid skyblue;
-    border-left: 1px solid skyblue;
-    background-color: white;
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
 }
 
 .container {
     text-align: center;
     display: inline-block;
     width: 99.85%;
-    border: 1px solid skyblue;
-    background-color: white;
-}
-
-div {
-    background-color: white;
-}
-
-div h2 {
-    text-align: center;
-}
-
-.leftcontainer {
-    float: left;
-    width: 50%;
-    height: 100%;
-}
-
-.rightcontainer {
-    float: right;
-    width: 50%;
-    height: 100%;
 }
 
 div3 {
     float: left;
     width: 50%;
     height: 20%;
-    border-bottom: 1px solid skyblue;
-    border-right: 1px solid skyblue;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white;
 }
 
 div4 {
@@ -89,7 +58,7 @@ div5 {
     float: right;
     width: 100%;
     height: 20%;
-    border: 1px solid skyblue;
+    border: 1px solid white;
 }
 
 div6 {
@@ -102,41 +71,29 @@ div7 {
     float: right;
     width: 50%;
     height: 20%;
-    border-left: 1px solid skyblue;
-    border-bottom: 1px solid skyblue;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
 }
-
-container ul {
-    list-style-type: none;
-    display: inline-block;
-    overflow: hidden;
-}
-
-cuadroimagen img {
-    max-height: 300%;
-    max-width: 300%;
-}
-
 .container li {
     display: inline-block;
     text-align: center;
     padding: 20px 30px;
     margin-top: 10px;
-    border: 1px solid skyblue;
+    border: 1px solid white;
 }
 
-table, th, td {
-    border: 1px solid black;
-    text-align: center;
+#social {
+    float: right;
+    width: 30px;
+    color: black;
+}
+#menu li:hover{
     background-color: white;
+    color: black;
 }
-
-.colum {
-    margin-left: 50px;
-    height: 30px;
-    display: inline-block;
+#upfooter {
+    text-align: center;
 }
-
-.colum h4 {
-    color: blue;
+img:hover{
+    transform: scale(2);
 }
