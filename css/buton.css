@@ -1,0 +1,35 @@
+.circulo {
+    text-align: center;
+    line-height: 300px;
+    font-size: 40px;
+     width: 300px;
+     height: 300px;
+     border-radius: 50%;
+    margin-left: 20px;
+    border:solid white 2px;
+    cursor:pointer;
+    
+}
+.circulo:hover{
+    background-color: white;
+}
+#containerrowcircle{
+    display: inline-flex;
+}
+#show,#hide {
+	display:none;
+}
+
+#content {
+  display:none;
+  background-color:white;
+border-radius: 10px;
+}
+
+input#show:checked ~ div#content {
+	display:inline-block;
+}
+
+input#hide:checked ~ div#content{
+	display:none;
+}
