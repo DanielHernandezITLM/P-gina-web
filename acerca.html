@@ -2,19 +2,49 @@
 
 <head>
     <title>Hola men</title>
-    <style>
-        main img {
-            height: 200px;
-            width: 200px;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="css/font-awesome-4.7.0">
+    <link rel="stylesheet" type="text/css" href="css/font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="css/stylesheet1.css">
+    <link rel="stylesheet" type="text/css" href="css/buton.css">
 </head>
 
 <body>
-    <header><a href="infancia.html"><h1><img src="imagenes/yo.jpg" alt="Icono de mi p&#225;gina">Daniel Hern&#225;ndez</h1></a> <a href="infancia.html"><strong>Mi
-            infancia</strong></a> | <a href="adolescencia.html"><strong>Mi adolescencia</strong></a> | <a href="adultez.html"><strong>Mi adultez </strong></a> | <a href="proyecto.html"><strong>Como me veo en 20 a&#241;os</strong></a> | <strong>acerca de mi</strong> | </header>
+    <div class="container">
+        <div id="Menu">
+            <header>
+                <h1>La vida de Daniel Hern&#225;ndez
+    </h1>
+                <a id="social"> <i class="fa fa-facebook-official" fa-3x aria-hidden="true">
+      <i class="fa fa-instagram" aria-hidden="true" fa-3x>
+       <i class="fa fa-twitter" aria-hidden="true" fa-3x></i> </i>
+                    </i>
+                </a>
+            </header>
+            <ul>
+                <a href="index.html">
+                    <li>Index</li>
+                </a>
+                <a href="infancia.html">
+                    <li>Infancia</li>
+                </a>
+                <a href="adolescencia.html">
+                    <li>Adolescencia</li>
+                </a>
+                <a href="adultez.html">
+                    <li>Adultez</li>
+                </a>
+                <a href="proyecto.html">
+                    <li>Proyecto de vida</li>
+                </a>
+                <a href="acerca.html">
+                    <li>Acerca de mi</li>
+                </a>
+            </ul>
+        </div>
+    </div>
     <hr>
     <main>
+        
         <h3>Familia</h3>
         <h4>Pap&#225;</h4>
         <p>Armando Hugo Hernandez Herrera es su nombre, naci&#243; en la ciudad de M&#233;xico es mi mejor amigo y todo un ejemplo a seguir lo amo.</p>
@@ -94,20 +124,26 @@
         <center><a href="imagenesHTML/acerca/futbol.html"><img src="imagenes/actividades/furbol.jpg" alt="En la cancha jugando futbol"></a></center>
     </main>
 </body>
-<footer>
-    <hr>
-    <a href="proyecto.html"><center><h3>Anterior</h3></center></a>
-    <a href="infancia.html"><center><h3>principio</h3></center></a>
-    <hr>
-    <h5>Cont&#225;ctame</h5>
-    <h6>
-        <ul>
-        <li>Facebook <a href="https://www.facebook.com/profile.php?id=100005309834702">Daniel Hern&#225;ndez</a></li>     
-            <li>Instagram <a href="https://www.instagram.com/h.m.daniel/">h.m.daniel</a></li>     
-            <li>Tel&#233;fono 6680220638</li>     
-            <li>Correo danihm95@gmail.com</li>     
-        </ul>
-        Todos los derechos reservados &#174;
-        </h6> </footer>
-
+<div class="container">
+    <div class="pagescroll">
+        <a href="adultez.html">
+            <center>
+                <h3>Anterior </a> | <a href="acerca.html"> Siguiente</h3></center>
+        </a>
+        <a href="infancia.html">
+            <center>
+                <h3>principio</h3></center>
+        </a>
+    </div>
+</div>
+<div id="sectionfooter">
+    <div class="container">
+        <h1> Visitame en mis redes sociales</h1> <i class="fa fa-facebook-official" fa-3x aria-hidden="true">
+      <i class="fa fa-instagram" aria-hidden="true" fa-3x>
+       <i class="fa fa-twitter" aria-hidden="true" fa-3x></i> </i>
+        </i>
+    </div>
+    <center> Todos los derechos reservados &#174;</center>
+    </footer>
+</div>
 </html>
