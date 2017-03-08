@@ -4,7 +4,11 @@
 }
 
 #content{
-    margin-right: 25%;
-    margin-top: -30%;
+    margin-right: 10%;
+    margin-left: -20%;
+    margin-top: -40%;
     position: fixed;
+}
+h3 span{
+    background-color: white;
 }
