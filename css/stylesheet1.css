@@ -35,19 +35,20 @@ a:visited {
     color: inherit;
 }
 
-.container {
+.container{
     text-align: center;
     display: inline-block;
     width: 99.85%;
 }
 
 
-.container li {
+.container ul li{
     display: inline-block;
     text-align: center;
     padding: 20px 30px;
     margin-top: 10px;
     border: 1px solid black;
+    cursor: default;
 }
 
 #social {
@@ -59,6 +60,7 @@ a:visited {
 #menu li:hover {
     background-color: white;
     color: black;
+    cursor: pointer;
 }
 .leftcontainer {
     float: left;
