@@ -7,7 +7,7 @@
     border-radius: 10px;
 }
 #div1:hover{
-    background-color: white;
+    background-color: black;
 }
 #div2 {
     float: right;
@@ -16,7 +16,7 @@
     border-radius: 10px;
 }
 #div2:hover{
-    background-color: white;
+    background-color: black;
 }
 #div3{
     float: right;
@@ -26,7 +26,7 @@
     border-radius: 10px;
 }
 #div3:hover{
-    background-color: white;
+    background-color: black;
 }
 #div4 {
     float: left;
@@ -35,7 +35,7 @@
     border-radius: 10px;
 }
 #div4:hover{
-    background-color: white;
+    background-color: black;
 }
 #div5 {
     float: right;
@@ -47,5 +47,5 @@
 }
 
 #div5:hover{
-    background-color: white;
+    background-color: black;
 }
