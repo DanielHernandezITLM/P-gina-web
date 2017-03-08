@@ -14,7 +14,7 @@ header {
 body {
     background-image: url(../imagenes/mame/background.jpg);
     background-size: cover;
-    color: black;
+    color: white;
     font-family: sans-serif;
 }
 
@@ -47,13 +47,13 @@ a:visited {
     text-align: center;
     padding: 20px 30px;
     margin-top: 10px;
-    border: 1px solid white;
+    border: 1px solid black;
 }
 
 #social {
     float: right;
     width: 30px;
-    color: black;
+    color: white;
 }
 
 #menu li:hover {
@@ -90,29 +90,23 @@ a:visited {
 }
 
 img:hover {
-    -webkit-transform: scale(1.5);
-    transform: scale(1.5)
+    transform: scale(1.5);
 }
 #sectionfooter{
     background-color: white;
+    color: black;
     width: 500px;
     margin-left: 35%;
     border-radius: 10px;
 }
 h1 span{
-    background-color: white;
+    background-color: black;
+    color: white;
     border-radius: 10px;
 }
 h2 span{
-    background-color: white;
-    border-radius: 10px;
-}
-h3 span{
-    background-color: white;
-    border-radius: 10px;
-}
-p span{
-    background-color: white;
+    background-color: black;
+    color: white;
     border-radius: 10px;
 }
 li:hover{
@@ -128,5 +122,12 @@ li:hover{
 }
 .fondoblanco{
     border-radius: 10px;
-    background-color: white;
+    border:solid white 7px;
+    color:white;
+}
+#btn{
+    cursor: pointer;
+}
+#btn span:hover{
+     color: red;
 }
