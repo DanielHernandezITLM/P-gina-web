@@ -80,7 +80,7 @@ a:visited {
 .containercolumn {
     width: 24%;
     height: 60%;
-    display: inline-flex;
+    display: inline-block;
     text-align: right;
 }
 
