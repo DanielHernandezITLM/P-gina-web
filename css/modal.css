@@ -83,6 +83,9 @@
   font-size: 1.5em;
   text-align: center;
 }
+#modal3 img{
+    margin-top: 60px;
+}
 #mostrar3 {
   display: none;
 }
@@ -118,6 +121,9 @@
   margin: auto;
   font-size: 1em;
   text-align: center;
+}
+#modal4 img{
+    margin-top: 100px;
 }
 #mostrar4 {
   display: none;
