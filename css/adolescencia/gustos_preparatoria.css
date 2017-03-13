@@ -1,0 +1,100 @@
+#metallica:hover{
+    position: relative;
+}
+#metallica:hover:after{
+    content: url(../../imagenes/adolescencia/gustos_prepa/metallica.jpg);
+    display: block;
+    position: absolute;
+    left: -150px;
+    top: -150px;
+}
+#cancerbero:hover{
+    position: relative;
+}
+#cancerbero:hover:after{
+    content: url(../../imagenes/adolescencia/gustos_prepa/cancerbero.jpg);
+    display: block;
+    position: absolute;
+    left: -150px;
+    top: -150px;
+}
+#enanitos:hover{
+    position: relative;
+}
+#enanitos:hover:after{
+    content: url(../../imagenes/adolescencia/gustos_prepa/enanitos.jpg);
+    display: block;
+    position: absolute;
+    left: -150px;
+    top: -150px;
+}
+#aldeanos:hover{
+    position: relative;
+}
+#aldeanos:hover:after{
+    content: url(../../imagenes/adolescencia/gustos_prepa/aldeanos.jpg);
+    display: block;
+    position: absolute;
+    left: -150px;
+    top: -150px;
+}
+#guns:hover{
+    position: relative;
+}
+#guns:hover:after{
+    content: url(../../imagenes/adolescencia/gustos_prepa/guns.jpg);
+    display: block;
+    position: absolute;
+    left: -150px;
+    top: -150px;
+}
+#guitarra:hover{
+    position: relative;
+}
+#guitarra:hover:after{
+    content: url(../../imagenes/adolescencia/gustos_prepa/guitarra.jpg);
+    display: block;
+    position: absolute;
+    left: -150px;
+    top: -150px;
+}
+#pelear:hover{
+    position: relative;
+}
+#pelear:hover:after{
+    content: url(../../imagenes/adolescencia/gustos_prepa/pelea.jpg);
+    display: block;
+    position: absolute;
+    left: -150px;
+    top: -150px;
+}
+#videojuegos:hover{
+    position: relative;
+}
+#videojuegos:hover:after{
+    content: url(../../imagenes/adolescencia/gustos_prepa/videojuegos.jpg);
+    display: block;
+    position: absolute;
+    left: -150px;
+    top: -150px;
+}
+#comercial:hover{
+    position: relative;
+}
+#comercial:hover:after{
+    content: url(../../imagenes/adolescencia/gustos_prepa/comercial.JPG);
+    display: block;
+    position: absolute;
+    left: -150px;
+    top: -150px;
+}
+#reposteria:hover{
+    position: relative;
+}
+#reposteria:hover:after{
+    content: url(../../imagenes/adolescencia/gustos_prepa/reposteria.jpg);
+    display: block;
+    position: absolute;
+    left: -150px;
+    top: -150px;
+}
