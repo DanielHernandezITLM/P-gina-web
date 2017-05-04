@@ -18,6 +18,22 @@ body {
     font-family: sans-serif;
 }
 
+#clickme{
+  background-color: grey;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  border: none;
+    margin-left: 45%;
+}
+#clickme:hover{
+    cursor: pointer;
+      border: none;
+  background: black;
+  box-shadow: 0px 0px 1px #777;
+}
 footer {
     height: 15%;
     padding: 10px;
