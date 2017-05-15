@@ -1,0 +1,154 @@
+.circulo{
+    margin-left: 100px;
+}
+
+#escondidas:hover{
+    position: relative;
+}
+#escondidas:hover:after{
+    content: url(../../imagenes/infancia/ocio/escondidas.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#poli:hover{
+    position: relative;
+}
+#poli:hover:after{
+    content: url(../../imagenes/infancia/ocio/policiasyladrones.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#rona:hover{
+    position: relative;
+}
+#rona:hover:after{
+    content: url(../../imagenes/infancia/ocio/rona.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#pataditas:hover{
+    position: relative;
+}
+#pataditas:hover:after{
+    content: url(../../imagenes/infancia/ocio/patada.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#futbol:hover{
+    position: relative;
+}
+#futbol:hover:after{
+    content: url(../../imagenes/infancia/ocio/futbol.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#billy:hover{
+    position: relative;
+}
+#billy:hover:after{
+    content: url(../../imagenes/infancia/ocio/billy.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#power:hover{
+    position: relative;
+}
+#power:hover:after{
+    content: url(../../imagenes/infancia/ocio/powerrangers.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#dragon:hover{
+    position: relative;
+}
+#dragon:hover:after{
+    content: url(../../imagenes/infancia/ocio/dragon%20ball.png);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#pokemon:hover{
+    position: relative;
+}
+#pokemon:hover:after{
+    content: url(../../imagenes/infancia/ocio/pokemon.png);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#avatar:hover{
+    position: relative;
+}
+#avatar:hover:after{
+    content: url(../../imagenes/infancia/ocio/avatar.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#mario64:hover{
+    position: relative;
+}
+#mario64:hover:after{
+    content: url(../../imagenes/infancia/ocio/mario64.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#senor:hover{
+    position: relative;
+}
+#senor:hover:after{
+    content: url(../../imagenes/infancia/ocio/LordoftheRingsTROTK.png);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#kart:hover{
+    position: relative;
+}
+#kart:hover:after{
+    content: url(../../imagenes/infancia/ocio/mariokart.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#smash:hover{
+    position: relative;
+}
+#smash:hover:after{
+    content: url(../../imagenes/infancia/ocio/smashbros.png);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100;
+}
+#party:hover{
+    position: relative;
+}
+#party:hover:after{
+    content: url(../../imagenes/infancia/ocio/marioparty.jpg);
+    display: block;
+    position: absolute;
+    left: -100px;
+    top: -100px;
+}

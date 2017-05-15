@@ -25,6 +25,7 @@
         universidad= request.getParameter("universidad");
         if(universidad.equals("instituto tecnologico de los mochis")){
             out.print("Correcto!, haz ganado para recoger tu premio, acercate a mi y dime = 'Los enanos mataron a blancanieves' ");
+            
             }else{
             
             %>
@@ -35,6 +36,10 @@
         }
         
             %>
+            
+            <form name="rtn" action="html/index.html">
+            <input type="submit" value="regresar" name="regresar" />
             </form>
+            
     </body>
 </html>

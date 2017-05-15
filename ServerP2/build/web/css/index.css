@@ -1,0 +1,13 @@
+#quiensoy {
+    height: 250px;
+    background-color: darkslateblue;
+    position: static;
+}
+#quiensoy p{
+  width: 60%;
+  height: 40%;
+  position: static;
+  margin: auto;
+  font-size: 1.5em;
+  text-align: center;
+}
