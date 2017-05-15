@@ -89,7 +89,7 @@
         <%
         String tatuaje="";
         tatuaje= request.getParameter("tatu");
-        if(tatuaje.equals("labor constante")){
+        if(tatuaje.equals("Labor constante")){
                   %>
             <script>
                 acierto();

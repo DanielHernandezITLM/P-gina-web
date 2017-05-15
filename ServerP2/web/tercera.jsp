@@ -89,7 +89,7 @@
         <%
         String platillo="";
         platillo= request.getParameter("platillo");
-        if(platillo.equals("carne de puerco")){
+        if(platillo.equals("Carne de puerco")){
                  %>
             <script>
                 acierto();
