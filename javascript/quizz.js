@@ -61,7 +61,6 @@ function validar() {
     var y = document.forms["formulario"]["apellido"].value;
     if (x == "Oscar" && y == "Hernandez") {
         alert("Correcto");
-        respuestas=respuestas+1;
         return false;
     }else{
         alert("incorrecto");
@@ -74,7 +73,6 @@ function validarpelicula() {
     var x = document.forms["formulariopelicula"]["pelicula"].value;
     if (x == "pulp fiction") {
         alert("Correcto");
-        respuestas=respuestas+1;
         return false;
     }else{
         alert("incorrecto");
@@ -86,7 +84,6 @@ function validarcantidad() {
     var x = document.forms["cantidadform"]["cantidad"].value;
     if (x == 24) {
         alert("Correcto");
-        respuestas=respuestas+1;
         return false;
     }else{
         alert("incorrecto");
@@ -98,7 +95,6 @@ function validarradio() {
 
         if (document.getElementById("puerco").checked){
            alert("Correcto"); 
-        respuestas=respuestas+1;
            return false;
         }else{
             alert("incorrecto");
@@ -111,10 +107,6 @@ function validartatuaje() {
 
         if (document.getElementById("todas").checked){
            alert("Correcto"); 
-        respuestas=respuestas+1;
-              if(respuestas==5){
-           document.body.setAttribute('style','background-image: url(../../imagenes/quizz/quizz.jpg);'); 
-}
            return false;
         }else{
             alert("incorrecto");

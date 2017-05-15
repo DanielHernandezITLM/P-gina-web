@@ -78,16 +78,16 @@
         <br>
         <br>
         <h1>1.-¿Cual es mi primer nombre y ultimo apellido?</h1>
-        <form name="formulario" action="/action_page_post.php" onsubmit="return validar()" method="post"> Nombre:
+        <form name="formulario" action="validar.jsp" onsubmit="return validar()" method="post"> Nombre:
             <input type="text" name="nombre"> Apellido:
             <input type="text" name="apellido">
             <input type="submit" value="Enviar"> </form>
         <h1 id="segunda">2.-¿Cual es mi pelicula favorita?</h1>
-        <form name="formulariopelicula" action="/action_page_post.php" onsubmit="return validarpelicula()" method="post">Nombre de la pelicula:
+        <form name="formulariopelicula" action="../../jsp/validar.jsp" onsubmit="return validarpelicula()" method="post">Nombre de la pelicula:
             <input type="text" name="pelicula">
             <input type="submit" value="Enviar"> </form>
         <h1>3.-¿Cual de los siguientes platillos es uno de mis favoritos?</h1>
-        <form name="comida"  action="/action_page_post.php" onsubmit="return validarradio()" method="post">
+        <form name="comida"  action="validar.jsp" onsubmit="return validarradio()" method="post">
             <input type="radio" name="comida" id="pizza" checked> Pizza
             <br>
             <input type="radio" name="comida" id="pozole"> Pozole
@@ -104,14 +104,14 @@
         <h1 id="pregunta">4.-¿?</h1>
         
         
-        <form name="cantidadform"  action="/action_page_post.php" id="cantidadform" style="display:none;" method="post" onsubmit="return validarcantidad()">
+        <form name="cantidadform"  action="validar.jsp" id="cantidadform" style="display:none;" method="post" onsubmit="return validarcantidad()">
         <input id="cantidad" type="text" name="cantidad">
         <input type="submit" value="Enviar">
         </form>
         
         
         <h1 id="quinta"></h1> 
-    <form name="tatuajeform"  action="/action_page_post.php" onsubmit="return validartatuaje()" method="post" style="display:none;" id="tatuaje">
+    <form name="tatuajeform"  action="validar.jsp" onsubmit="return validartatuaje()" method="post" style="display:none;" id="tatuaje">
             <input type="radio" name="tatuaje" id="sabiduría" checked> Es sabiduría
             <br>
             <input type="radio" name="tatuaje" id="verdad"> Es la verdad
